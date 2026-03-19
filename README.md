@@ -7,7 +7,7 @@
 <details open>
 <summary>
 <picture>
-  <img src="https://img.shields.io/badge/🇬🇧%20ENGLISH-click%20to%20expand%2Fcollapse-4A90D9?style=for-the-badge&labelColor=1a1a2e" alt="English"/>
+  <img src="https://img.shields.io/badge/🇬🇧%20ENGLISH-click%20to%20open-4A90D9?style=for-the-badge&labelColor=1a1a2e" alt="English"/>
 </picture>
 </summary>
 
