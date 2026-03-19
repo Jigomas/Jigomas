@@ -10,19 +10,21 @@
 ## 📬 Contact Me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jig0mas)
-[![Mail](https://img.shields.io/badge/mail.ru-%230070C0.svg?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:bulanov.tmf@mail.ru)
-[![MIPT Email](https://img.shields.io/badge/phystech.edu-%23003DA5.svg?style=for-the-badge&logo=academia&logoColor=white)](mailto:bulanov.ts@phystech.edu)
+![Mail](https://img.shields.io/badge/bulanov.tmf%40mail.ru-%230070C0.svg?style=for-the-badge&logo=maildotru&logoColor=white)
+![MIPT Email](https://img.shields.io/badge/bulanov.ts%40phystech.edu-%23003DA5.svg?style=for-the-badge&logo=minutemailer&logoColor=white)
 
 ---
 
 ## 🛠️ Featured Projects
 
-- 🧱 [XorOS](https://github.com/Jigomas/XorOS) — Bare-metal OS running on a custom RV32I virtual processor
-- ⚙️ [rv32i](https://github.com/Jigomas/rv32i) — Custom RISC-V RV32I processor emulator in C++
-- 🔗 [onnx-graph](https://github.com/Jigomas/onnx-graph) — ONNX neural network graph tool in C++
-- 📦 [LFU\_cache](https://github.com/Jigomas/LFU_cache) — LFU cache implementation in C++
-- 🎮 [Pinpong](https://github.com/Jigomas/Pinpong-a_server_game) — Server-side game in C
-- 🧠 [Akinator](https://github.com/Jigomas/Akinator) — Binary tree-based Akinator game in C++
+- [XorOS](https://github.com/Jigomas/XorOS) — Bare-metal OS running on a custom RV32I virtual processor
+- [rv32i](https://github.com/Jigomas/rv32i) — Custom RISC-V RV32I processor emulator in C++
+- [onnx-graph](https://github.com/Jigomas/onnx-graph) — ONNX neural network graph tool in C++
+- [LFU\_cache](https://github.com/Jigomas/LFU_cache) — LFU cache implementation in C++
+- [Smart-Curtains](https://github.com/Jigomas/Smart-Curtains) — ESP8266-based smart curtains controlled via Yandex Alice
+- [Space-Battle-Shooter-Game](https://github.com/Jigomas/Space-Battle-Shooter-Game) — Asteroids-style 2D shooter built with Unity for learning game physics
+- [Pinpong](https://github.com/Jigomas/Pinpong-a_server_game) — Server-side game in C
+- [Akinator](https://github.com/Jigomas/Akinator) — Binary tree-based Akinator game in C++
 
 ---
 
