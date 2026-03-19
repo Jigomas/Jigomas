@@ -9,12 +9,12 @@
 
 ## 🛠️ Featured Projects
 
-- 🧱 [XorOS](https://github.com/Jigomas/XorOS) — Bare-metal OS running on a custom RV32I virtual processor
-- ⚙️ [rv32i](https://github.com/Jigomas/rv32i) — Custom RISC-V RV32I processor emulator in C++
-- 🔗 [onnx-graph](https://github.com/Jigomas/onnx-graph) — ONNX neural network graph tool in C++
-- 📦 [LFU\_cache](https://github.com/Jigomas/LFU_cache) — LFU cache implementation in C++
-- 🎮 [Pinpong](https://github.com/Jigomas/Pinpong-a_server_game) — Server-side game in C
-- 🧠 [Akinator](https://github.com/Jigomas/Akinator) — Binary tree-based Akinator game in C++
+- [XorOS](https://github.com/Jigomas/XorOS) — Bare-metal OS running on a custom RV32I virtual processor
+- [rv32i](https://github.com/Jigomas/rv32i) — Custom RISC-V RV32I processor emulator in C++
+- [onnx-graph](https://github.com/Jigomas/onnx-graph) — ONNX neural network graph tool in C++
+- [LFU\_cache](https://github.com/Jigomas/LFU_cache) — LFU cache implementation in C++
+- [Pinpong](https://github.com/Jigomas/Pinpong-a_server_game) — Server-side game in C
+- [Akinator](https://github.com/Jigomas/Akinator) — Binary tree-based Akinator game in C++
 
 ---
 
