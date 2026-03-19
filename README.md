@@ -1,7 +1,7 @@
 # ⚡ About Me:
 🖥️ Systems programmer building low-level projects — OS kernels, CPU emulators, compilers  
 🎓 Studying at MIPT (Phystech), sharpening skills in C/C++ and computer architecture  
-🔩 Interested in: emulators, caches, algorithms, network programming  
+🔩 Interested in: emulators, algorithms, network programming  
 💡 Ask me about systems programming, data structures, and low-level C/C++  
 📍 Moscow, Russia
 
