@@ -11,7 +11,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jig0mas)
 [![Mail](https://img.shields.io/badge/mail.ru-%230070C0.svg?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:bulanov.tmf@mail.ru)
-[![MIPT Email](https://img.shields.io/badge/phystech.edu-%23003DA5.svg?style=for-the-badge&logo=academia&logoColor=white)](mailto:bulanov.tmf@phystech.edu)
+[![MIPT Email](https://img.shields.io/badge/phystech.edu-%23003DA5.svg?style=for-the-badge&logo=academia&logoColor=white)](mailto:bulanov.ts@phystech.edu)
 
 ---
 
