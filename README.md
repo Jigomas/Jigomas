@@ -88,7 +88,7 @@
 <div align="left">
 
 # ⚡ Обо мне:
-🖥️ Системный программист — пишу низкоуровневые проекты: ядра ОС, эмуляторы CPU, компиляторы  
+🖥️ Системный программист — пишу низкоуровневые проекты: ядро ОС, эмулятор CPU, компилятор
 🎓 Студент МФТИ (Физтех), совершенствую навыки в C/C++ и архитектуре ЭВМ  
 🔩 Интересуюсь: эмуляторами, алгоритмами, сетевым программированием  
 💡 Спрашивайте о системном программировании, структурах данных и низкоуровневом C/C++  
@@ -111,7 +111,7 @@
 - [Smart-Curtains](https://github.com/Jigomas/Smart-Curtains) — Умные шторы на ESP8266 с управлением через Яндекс Алису
 - [Space-Battle-Shooter-Game](https://github.com/Jigomas/Space-Battle-Shooter-Game) — 2D-шутер в стиле Asteroids на Unity для изучения игровой физики
 - [Pinpong](https://github.com/Jigomas/Pinpong-a_server_game) — Серверная игра на C
-- [Akinator](https://github.com/Jigomas/Akinator) — Акинатор на двоичном дереве, C++
+- [Akinator](https://github.com/Jigomas/Akinator) — Акинатор на бинарном дереве, C++
 
 ---
 
