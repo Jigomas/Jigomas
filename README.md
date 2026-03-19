@@ -14,6 +14,10 @@
 <br>
 
 <div align="left">
+  
+# My CV
+  
+[File](https://github.com/Jigomas/Jigomas/blob/main/CV%20.pdf)
 
 # ⚡ About Me:
 🖥️ Systems programmer building low-level projects — OS kernels, CPU emulators, compilers  
@@ -86,6 +90,10 @@
 <br>
 
 <div align="left">
+
+# Моё резюме
+  
+[Файл](https://github.com/Jigomas/Jigomas/blob/main/CV%20.pdf)
 
 # ⚡ Обо мне:
 🖥️ Системный программист — пишу низкоуровневые проекты: ядро ОС, эмулятор CPU, компилятор  
