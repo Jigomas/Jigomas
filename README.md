@@ -20,10 +20,10 @@
 [File](https://github.com/Jigomas/Jigomas/blob/main/CV.pdf)
 
 # ⚡ About Me:
-🖥️ Systems programmer building low-level projects — OS kernels, CPU emulators, compilers  
-🎓 Studying at MIPT (Phystech), sharpening skills in C/C++ and computer architecture  
-🔩 Interested in: emulators, algorithms, network programming  
-💡 Ask me about systems programming, data structures, and low-level C/C++  
+🖥️ Systems programmer — from OS kernels and CPU emulators to production Python bots and red-team LLM testing  
+🎓 3rd-year student at MIPT (Phystech), Radio Engineering and Computer Technology faculty  
+🔩 Specializations: emulators, algorithms, systems programming, networking, backend, security  
+💡 Ask me about systems programming, low-level C/C++, and LLM red-teaming  
 📍 Moscow, Russia
 
 ---
@@ -62,6 +62,12 @@
 ![Makefile](https://img.shields.io/badge/Makefile-%23427819.svg?style=for-the-badge&logo=gnu&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-%23A42E2B.svg?style=for-the-badge&logo=gnu&logoColor=white)
 
+### APIs & Testing
+![pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Anthropic SDK](https://img.shields.io/badge/Anthropic%20SDK-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+
 ---
 
 ## 📊 GitHub Activity:
@@ -94,10 +100,10 @@
 [Файл](https://github.com/Jigomas/Jigomas/blob/main/CV.pdf)
 
 # ⚡ Обо мне:
-🖥️ Системный программист — пишу низкоуровневые проекты: ядро ОС, эмулятор CPU, компилятор  
-🎓 Студент МФТИ (Физтех), совершенствую навыки в C/C++ и архитектуре ЭВМ  
-🔩 Интересуюсь: эмуляторами, алгоритмами, сетевым программированием  
-💡 Спрашивайте о системном программировании, структурах данных и низкоуровневом C/C++  
+🖥️ Системный программист — от ядер ОС и эмуляторов процессоров до продакшен-ботов на Python и red-team тестирования LLM  
+🎓 Студент 3 курса ФРКТ МФТИ (Физтех)  
+🔩 Специализации: эмуляторы, алгоритмы, системное программирование, сети, backend, security  
+💡 Спрашивайте о системном программировании, низкоуровневом C/C++ и red-team тестировании LLM  
 📍 Москва, Россия
 
 ---
@@ -135,6 +141,12 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-%23427819.svg?style=for-the-badge&logo=gnu&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-%23A42E2B.svg?style=for-the-badge&logo=gnu&logoColor=white)
+
+### API и тестирование
+![pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Anthropic SDK](https://img.shields.io/badge/Anthropic%20SDK-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
