@@ -36,14 +36,12 @@
 ---
 
 ## 🛠️ Featured Projects
+- [Co-SR / OBSS-PD for Wi-Fi 8](https://github.com/Jigomas/cosr-obsspd-wifi8) — Radio resource allocation algorithm (Co-SR + OBSS/PD) for VR traffic in Wi-Fi 8 networks (NDA, description only)
+- [flight prices bot](https://github.com/Jigomas/flight-prices-bot) — Telegram bot tracking the cheapest flight prices, in production
+- [hacker](https://github.com/Jigomas/hacker) — Red-team runner for LLMs: automated jailbreak search with LLM-judge classification
 - [XorOS](https://github.com/Jigomas/XorOS) — Bare-metal OS running on a custom RV32I virtual processor
-- [rv32i](https://github.com/Jigomas/rv32i) — Custom RISC-V RV32I processor emulator in C++
-- [onnx-graph](https://github.com/Jigomas/onnx-graph) — ONNX neural network graph tool in C++
+- [onnx-graph](https://github.com/Jigomas/onnx_graph) — ONNX neural network graph tool in C++
 - [LFU\_cache](https://github.com/Jigomas/LFU_cache) — LFU cache implementation in C++
-- [Smart-Curtains](https://github.com/Jigomas/Smart-Curtains) — ESP8266-based smart curtains controlled via Yandex Alice
-- [Space-Battle-Shooter-Game](https://github.com/Jigomas/Space-Battle-Shooter-Game) — Asteroids-style 2D shooter built with Unity for learning game physics
-- [Pinpong](https://github.com/Jigomas/Pinpong-a_server_game) — Server-side game in C
-- [Akinator](https://github.com/Jigomas/Akinator) — Binary tree-based Akinator game in C++
 
 ---
 
@@ -112,14 +110,12 @@
 ---
 
 ## 🛠️ Избранные проекты
+- [Co-SR / OBSS-PD для Wi-Fi 8](https://github.com/Jigomas/cosr-obsspd-wifi8) — Алгоритм распределения радиоресурсов (Co-SR + OBSS/PD) для VR-трафика в сетях Wi-Fi 8 (NDA, только описание)
+- [flight prices bot](https://github.com/Jigomas/flight-prices-bot) — Telegram-бот поиска самых дешёвых цен на авиабилеты, в продакшене
+- [hacker](https://github.com/Jigomas/hacker) — Red-team раннер для LLM: автоматизированный поиск джейлбрейков через LLM-judge классификацию
 - [XorOS](https://github.com/Jigomas/XorOS) — ОС на «голом железе» под самодельный виртуальный RV32I-процессор
-- [rv32i](https://github.com/Jigomas/rv32i) — Эмулятор процессора RISC-V RV32I на C++
-- [onnx-graph](https://github.com/Jigomas/onnx-graph) — Инструмент для работы с графом нейросети ONNX на C++
+- [onnx-graph](https://github.com/Jigomas/onnx_graph) — Инструмент для работы с графом нейросети ONNX на C++
 - [LFU\_cache](https://github.com/Jigomas/LFU_cache) — Реализация LFU-кэша на C++
-- [Smart-Curtains](https://github.com/Jigomas/Smart-Curtains) — Умные шторы на ESP8266 с управлением через Яндекс Алису
-- [Space-Battle-Shooter-Game](https://github.com/Jigomas/Space-Battle-Shooter-Game) — 2D-шутер в стиле Asteroids на Unity для изучения игровой физики
-- [Pinpong](https://github.com/Jigomas/Pinpong-a_server_game) — Серверная игра на C
-- [Akinator](https://github.com/Jigomas/Akinator) — Акинатор на бинарном дереве, C++
 
 ---
 
