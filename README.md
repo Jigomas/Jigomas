@@ -17,7 +17,7 @@
   
 # My CV
   
-[File](https://github.com/Jigomas/Jigomas/blob/main/CV.pdf)
+[File](https://github.com/Jigomas/Jigomas/blob/main/Резюме%20Буланов%20Тимофей.pdf)
 
 # ⚡ About Me:
 🖥️ Systems programmer — from OS kernels and CPU emulators to production Python bots and red-team LLM testing  
