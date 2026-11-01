@@ -20,7 +20,7 @@
 [File](https://github.com/Jigomas/Jigomas/blob/main/Резюме%20Буланов%20Тимофей.pdf)
 
 # ⚡ About Me:
-🛡️ LLM security: attacks on models (jailbreaks, prompt injections) and their automated evaluation, built on a systems programming foundation  
+🛡️ LLM security: attacks on models (jailbreaks, prompt injections) and their automated evaluation
 🎓 3rd-year student at MIPT (Phystech), Radio Engineering and Computer Technology faculty  
 🔬 Researcher at IITP RAS, Wireless Networks Lab  
 🔩 Specializations: LLM security, emulators, algorithms, systems programming, networking, backend  
