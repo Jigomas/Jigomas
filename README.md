@@ -17,7 +17,7 @@
   
 # My CV
   
-[File](https://github.com/Jigomas/Jigomas/blob/main/Резюме%20Буланов%20Тимофей.pdf)
+[File - click to expand](https://github.com/Jigomas/Jigomas/blob/main/Резюме_Буланов_Тимофей.pdf)
 
 # ⚡ About Me:
 🛡️ LLM security: attacks on models (jailbreaks, prompt injections) and their automated evaluation, built on a systems programming foundation  
