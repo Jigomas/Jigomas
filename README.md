@@ -20,11 +20,13 @@
 [File](https://github.com/Jigomas/Jigomas/blob/main/Резюме%20Буланов%20Тимофей.pdf)
 
 # ⚡ About Me:
-🖥️ Systems programmer — from OS kernels and CPU emulators to production Python bots and red-team LLM testing  
+🛡️ LLM security: attacks on models (jailbreaks, prompt injections) and their automated evaluation, built on a systems programming foundation  
 🎓 3rd-year student at MIPT (Phystech), Radio Engineering and Computer Technology faculty  
-🔩 Specializations: emulators, algorithms, systems programming, networking, backend, security  
-💡 Ask me about systems programming, low-level C/C++, and LLM red-teaming  
-📍 Moscow, Russia
+🔬 Researcher at IITP RAS, Wireless Networks Lab  
+🔩 Specializations: LLM security, emulators, algorithms, systems programming, networking, backend  
+🔎 Looking for an NLP / LLM internship, available 20 h/week  
+💡 Ask me about LLM red-teaming, systems programming and low-level C/C++  
+📍 Moscow / Dolgoprudny, Russia
 
 ---
 
@@ -35,13 +37,26 @@
 
 ---
 
+## 💼 Work Experience
+- **IITP RAS, Wireless Networks Lab** — Researcher (NDA), June 2026 – present  
+  [Co-SR / OBSS-PD for Wi-Fi 8](https://github.com/Jigomas/cosr-obsspd-wifi8) — coordination algorithm for Co-SR and OBSS/PD in Wi-Fi 8 networks for VR traffic: up to 2× throughput gain in ns-3 simulation; paper in preparation (description only)
+
+---
+
 ## 🛠️ Featured Projects
-- [Co-SR / OBSS-PD for Wi-Fi 8](https://github.com/Jigomas/cosr-obsspd-wifi8) — Radio resource allocation algorithm (Co-SR + OBSS/PD) for VR traffic in Wi-Fi 8 networks (NDA, description only)
-- [flight prices bot](https://github.com/Jigomas/flight-prices-bot) — Telegram bot tracking the cheapest flight prices, in production
-- [hacker](https://github.com/Jigomas/hacker) — Red-team runner for LLMs: automated jailbreak search with LLM-judge classification
-- [XorOS](https://github.com/Jigomas/XorOS) — Bare-metal OS running on a custom RV32I virtual processor
+- [LLM Red-Team Runner](https://github.com/Jigomas/hacker) — Framework for evaluating LLM robustness to jailbreaks and prompt attacks: automated attack runs via Anthropic SDK, LLM-as-a-judge response classification, success-rate metric for comparing defenses; pytest
+- **Alpha Connectome (Wunder Fund)** — ML competition: forecasting from limit order book (LOB) data. Weighted Pearson 0.646 on validation vs 0.617 for the organizers' GRU baseline; feature engineering, numba acceleration (code private until the competition ends)
+- [flight prices bot](https://github.com/Jigomas/flight-prices-bot) — Telegram bot monitoring prices of 5 airlines: async data collection with anti-bot bypass, SQLite, 24/7 Docker deployment, alerts and source-failure monitoring
+- [XorOS](https://github.com/Jigomas/XorOS) — Bare-metal OS for RISC-V plus my own [RV32IA emulator](https://github.com/Jigomas/rv32i) in C++17 (single-cycle, LRU cache model); the OS passes 27 tests on the simulator
 - [onnx-graph](https://github.com/Jigomas/onnx_graph) — ONNX neural network graph tool in C++
-- [LFU\_cache](https://github.com/Jigomas/LFU_cache) — LFU cache implementation in C++
+- [LFU\_cache](https://github.com/Jigomas/LFU_cache) — O(1) LFU cache plus an ideal Belady cache to measure hit rate against the theoretical optimum; reused in the RV32IA emulator
+
+---
+
+## 🏆 Achievements
+- 🥉 3rd place, Sber Hack-Lab hackathon (team captain), 2025
+- Prize winner, «Step into the Future» (physics), 2024
+- Prize winner, «Rosatom» olympiad (physics 2024, mathematics 2023)
 
 ---
 
@@ -57,7 +72,7 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/RISC--V-%23283272.svg?style=for-the-badge&logo=riscv&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-%23555555.svg?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-%23427819.svg?style=for-the-badge&logo=gnu&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-%23A42E2B.svg?style=for-the-badge&logo=gnu&logoColor=white)
@@ -67,6 +82,7 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Anthropic SDK](https://img.shields.io/badge/Anthropic%20SDK-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
@@ -100,11 +116,13 @@
 [Файл](https://github.com/Jigomas/Jigomas/blob/main/CV.pdf)
 
 # ⚡ Обо мне:
-🖥️ Системный программист — от ядер ОС и эмуляторов процессоров до продакшен-ботов на Python и red-team тестирования LLM  
+🛡️ Безопасность LLM: атаки на модели (джейлбрейки, промпт-инъекции) и их автоматическая оценка; фундамент в системном программировании  
 🎓 Студент 3 курса ФРКТ МФТИ (Физтех)  
-🔩 Специализации: эмуляторы, алгоритмы, системное программирование, сети, backend, security  
-💡 Спрашивайте о системном программировании, низкоуровневом C/C++ и red-team тестировании LLM  
-📍 Москва, Россия
+🔬 Исследователь в ИППИ РАН, Wireless Networks Lab  
+🔩 Специализации: LLM Security, эмуляторы, алгоритмы, системное программирование, сети, backend  
+🔎 Ищу стажировку в NLP / LLM, готов работать 20 ч/неделю  
+💡 Спрашивайте о red-team тестировании LLM, системном программировании и низкоуровневом C/C++  
+📍 Москва / Долгопрудный, Россия
 
 ---
 
@@ -115,13 +133,26 @@
 
 ---
 
+## 💼 Опыт работы
+- **ИППИ РАН, Wireless Networks Lab** — Исследователь (NDA), июнь 2026 – н.в.  
+  [Co-SR / OBSS-PD для Wi-Fi 8](https://github.com/Jigomas/cosr-obsspd-wifi8) — алгоритм координации Co-SR и OBSS/PD в сетях Wi-Fi 8 для VR-трафика: рост пропускной способности до 2 раз в симуляции ns-3; статья готовится к подаче (только описание)
+
+---
+
 ## 🛠️ Избранные проекты
-- [Co-SR / OBSS-PD для Wi-Fi 8](https://github.com/Jigomas/cosr-obsspd-wifi8) — Алгоритм распределения радиоресурсов (Co-SR + OBSS/PD) для VR-трафика в сетях Wi-Fi 8 (NDA, только описание)
-- [flight prices bot](https://github.com/Jigomas/flight-prices-bot) — Telegram-бот поиска самых дешёвых цен на авиабилеты, в продакшене
-- [hacker](https://github.com/Jigomas/hacker) — Red-team раннер для LLM: автоматизированный поиск джейлбрейков через LLM-judge классификацию
-- [XorOS](https://github.com/Jigomas/XorOS) — ОС на «голом железе» под самодельный виртуальный RV32I-процессор
+- [LLM Red-Team Runner](https://github.com/Jigomas/hacker) — Фреймворк оценки устойчивости LLM к джейлбрейкам и промпт-атакам: автоматический прогон атак через Anthropic SDK, LLM-as-a-judge классификация ответов, метрика success rate для сравнения защит; pytest
+- **Alpha Connectome (Wunder Fund)** — ML-конкурс: прогноз по данным биржевого стакана (LOB). Weighted Pearson 0.646 на валидации против 0.617 у бейзлайна организаторов (GRU); feature engineering, ускорение на numba (код закрыт до конца конкурса)
+- [flight prices bot](https://github.com/Jigomas/flight-prices-bot) — Telegram-бот мониторинга цен 5 авиакомпаний: асинхронный сбор данных с обходом антибот-защиты, SQLite, Docker-деплой 24/7, алерты и мониторинг сбоев источников
+- [XorOS](https://github.com/Jigomas/XorOS) — Bare-metal ОС под RISC-V и собственный [эмулятор RV32IA](https://github.com/Jigomas/rv32i) на C++17 (single-cycle, модель LRU-кэша); ОС проходит 27 тестов на симуляторе
 - [onnx-graph](https://github.com/Jigomas/onnx_graph) — Инструмент для работы с графом нейросети ONNX на C++
-- [LFU\_cache](https://github.com/Jigomas/LFU_cache) — Реализация LFU-кэша на C++
+- [LFU\_cache](https://github.com/Jigomas/LFU_cache) — LFU-кэш с операциями за O(1) и идеальный кэш Белади для оценки hit rate относительно теоретического оптимума; переиспользован в эмуляторе RV32IA
+
+---
+
+## 🏆 Достижения
+- 🥉 3 место, хакатон Сбер Hack-Lab (капитан команды), 2025
+- Призёр «Шаг в будущее» (физика), 2024
+- Призёр олимпиады «Росатом» (физика 2024, математика 2023)
 
 ---
 
@@ -137,7 +168,7 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/RISC--V-%23283272.svg?style=for-the-badge&logo=riscv&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-%23555555.svg?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-%23427819.svg?style=for-the-badge&logo=gnu&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-%23A42E2B.svg?style=for-the-badge&logo=gnu&logoColor=white)
@@ -147,6 +178,7 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Anthropic SDK](https://img.shields.io/badge/Anthropic%20SDK-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
